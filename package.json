@@ -5,9 +5,12 @@
   "author": "",
   "main": "index.js",
   "scripts": {
+
     "test": "grunt test",
     "build": "grunt build",
-    "all": "npm run build && npm run test"
+    "all": "npm run build && npm run test",
+    "start": "node ./server.js",
+    "deploy": "gcloud app deploy"
   },
   "dependencies": {
     "construx": "^1.0.0",
