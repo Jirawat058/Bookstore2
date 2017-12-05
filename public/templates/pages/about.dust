@@ -1,0 +1,14 @@
+{>"layouts/master" /}
+{<title}
+	เกี่ยวกับร้านค้า
+{/title}
+
+{<body}
+     <div class="row">
+      <div class="large-12 columns">
+        <h2>เกี่ยวกับเรา</h2>
+        <p>ระบบร้านค้าทดสอบ</p>
+
+      </div>  
+    </div>
+{/body}

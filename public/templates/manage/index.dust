@@ -1,0 +1,6 @@
+{>"layouts/manage" /}
+
+{<body}
+	<h2>จัดการหนังสือ</h2>
+	<p>-</p>
+{/body}
